@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: gkim65
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1364366
+bundleId: 2525502
+url: https://gkim65.shinyapps.io/shiny/
+when: 1571761928.66828
+asMultiple: FALSE
+asStatic: FALSE
